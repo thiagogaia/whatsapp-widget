@@ -9,3 +9,6 @@ Adicione o script à sua pagina e em seguida chame o componente da seguinte form
 
 Ao clicar no botão "Abrir chat" é aberto o whatsapp para envio de mensagem. 
 O script reconhece se é Desktop ou Mobile e faz o direcionamento correto.
+
+![alt text](https://i.ibb.co/6yH0cqK/image.png)
+
